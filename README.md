@@ -4,13 +4,6 @@
 
 Build Real Web App with React.
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/LzYTqzi9rQk)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
 
 ## Available Scripts
 
@@ -26,5 +19,3 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-► Subscribe Us:
-https://www.youtube.com/codingwithelias?sub_confirmation=1
